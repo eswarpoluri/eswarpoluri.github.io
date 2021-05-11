@@ -7,6 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/eswar.poluri/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/eswarpoluri)
 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=eswarpoluri.eswar_poluri&style=flat-square&color=0088cc)
 
 
 You can use the [editor on GitHub](https://github.com/eswarpoluri/Eswar_Poluri/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
