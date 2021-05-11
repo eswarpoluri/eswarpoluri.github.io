@@ -2,12 +2,12 @@
 <h3 align="Left">Systems Design Engineer at L&T FZE, Doha</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-poluri-0866a515/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://eswarpoluri.github.io/Eswar_Poluri/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://eswarpoluri.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/eswarpoluri)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/eswar.poluri/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/eswarpoluri)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=eswarpoluri.eswar_poluri&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=eswarpoluri.eswarpoluri.github.io&style=flat-square&color=0088cc)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eswarpoluri" alt="eswarpoluri" /></a> </p>
 
@@ -15,17 +15,17 @@ I'm a Systems Design Engineer. I'm a passionate learner who's always willing to 
 
 [![](https://gitwar.herokuapp.com/badge?username=eswarpoluri&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/eswarpoluri/eswar_poluri/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/eswarpoluri/eswarpoluri.github.io/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with NLP, CV, AWS, MLOps etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/eswarpoluri).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/eswarpoluri/eswar_poluri/issues/)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/eswarpoluri/eswarpoluri.github.io/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Data Science.
 - 📫 &nbsp; How to reach me: eswarpoluri@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/eswarpoluri/eswar_poluri/blob/master/Eswar_Poluri_Resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/eswarpoluri/eswarpoluri.github.io/blob/master/Eswar_Poluri_Resume.pdf).
 
 ### My Absolute Favorites:
 
