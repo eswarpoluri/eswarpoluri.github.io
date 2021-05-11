@@ -1,4 +1,4 @@
-## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hey 👋, I'm [Eswar Poluri!](https://github.com/eswarpoluri/)
 
 <h1 align="center">Hi 👋, I'm Eswar Poluri</h1>
 <h3 align="center">"Hello, I'm a System Design Engineer at L&T FZE, Doha"</h3>
