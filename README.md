@@ -1,7 +1,12 @@
-## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hey 👋, I'm [Eswar Poluri!](https://github.com/eswarpoluri/)
+<h3 align="Left">Systems Design Engineer at L&T FZE, Doha</h3>
 
-<h1 align="center">Hi 👋, I'm Eswar Poluri</h1>
-<h3 align="center">"Hello, I'm a System Design Engineer at L&T FZE, Doha"</h3>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-poluri-0866a515/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://eswarpoluri.github.io/Eswar_Poluri/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/eswarpoluri)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/eswar.poluri/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/eswarpoluri)
+
 
 
 You can use the [editor on GitHub](https://github.com/eswarpoluri/Eswar_Poluri/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
