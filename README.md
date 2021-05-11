@@ -1,5 +1,5 @@
 ## Hey 👋, I'm [Eswar Poluri!](https://github.com/eswarpoluri/)
-<h3 align="Left">"Systems Design Engineer at L&T FZE, Doha"</h3>
+<h3 align="Left">Systems Design Engineer at L&T FZE, Doha</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-poluri-0866a515/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
