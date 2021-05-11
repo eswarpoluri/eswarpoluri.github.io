@@ -19,13 +19,13 @@ I'm a Systems Design Engineer. I'm a passionate learner who's always willing to 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with NLP, CV, <br /> AWS, MLOps etc.
+- 🛠 &nbsp; I’m currently working with NLP, CV, AWS, MLOps etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/eswarpoluri).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/eswarpoluri/eswar_poluri/issues/2)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Data Science.
+- 📫 &nbsp; How to reach me: eswarpoluri@gmail.com.
+- 📝 &nbsp; Checkout my [Resume](https://github.com/eswarpoluri/eswar_poluri/blob/master/Eswar_Poluri_Resume.pdf).
 
 ### My Absolute Favorites:
 
