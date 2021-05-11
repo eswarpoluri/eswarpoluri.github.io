@@ -23,7 +23,7 @@ I'm a Systems Design Engineer. I'm a passionate learner who's always willing to 
 - 💬 &nbsp; Ask me about anything [here](https://github.com/eswarpoluri/eswarpoluri.github.io/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Data Science.
 - 📫 &nbsp; How to reach me: eswarpoluri@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/eswarpoluri/eswarpoluri.github.io/blob/master/Eswar_Poluri_Resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/eswarpoluri/eswarpoluri.github.io/blob/main/Eswar_Poluri_Resume.pdf).
 
 ### My Absolute Favorites:
 
