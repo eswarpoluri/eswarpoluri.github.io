@@ -1,7 +1,5 @@
 ## Hey 👋, I'm [Eswar Poluri!](https://github.com/eswarpoluri/)
-
-<h1 align="center">Hi 👋, I'm Eswar Poluri</h1>
-<h3 align="center">"Hello, I'm a System Design Engineer at L&T FZE, Doha"</h3>
+<h3 align="center">"Systems Design Engineer at L&T FZE, Doha"</h3>
 
 
 You can use the [editor on GitHub](https://github.com/eswarpoluri/Eswar_Poluri/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
