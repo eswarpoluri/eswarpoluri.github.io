@@ -9,6 +9,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=eswarpoluri.eswar_poluri&style=flat-square&color=0088cc)
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eswarpoluri" alt="eswarpoluri" /></a> </p>
+
+
 
 You can use the [editor on GitHub](https://github.com/eswarpoluri/Eswar_Poluri/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
