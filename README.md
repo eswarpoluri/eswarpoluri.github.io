@@ -66,7 +66,7 @@ I'm a Systems Design Engineer and passionate learner who's always willing to lea
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1d/20200803065701%21PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/> </a> 
   <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual_studio" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a> 
+  <a href="https://github.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="github" width="40" height="40"/> </a> 
    </p>
 
 <h3 align="left">Support:</h3>
