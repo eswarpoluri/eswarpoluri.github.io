@@ -41,7 +41,7 @@ I'm a Systems Design Engineer and passionate learner who's always willing to lea
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org" target="_blank"> <img src="https://raw.githubusercontent.com/eswarpoluri/eswarpoluri.github.io/main/icons/Pandas_logo.png" alt="pandas" width="25" height="40"/> </a> 
-  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/eswarpoluri/eswarpoluri.github.io/main/icons/numpy_logo.png" alt="numpy" width="50" height="40"/> </a> 
+  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/eswarpoluri/eswarpoluri.github.io/main/icons/numpy_logo.png" alt="numpy" width="40" height="40"/> </a> 
   <a href="https://matplotlib.org/" target="_blank"> <img src="https://raw.githubusercontent.com/eswarpoluri/eswarpoluri.github.io/main/icons/matplotlib_logo.png" alt="matplotlib" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="120" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="40"/> </a>
