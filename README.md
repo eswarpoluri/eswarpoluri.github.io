@@ -61,7 +61,7 @@ I'm a Systems Design Engineer and passionate learner who's always willing to lea
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mangodb" width="40" height="40"/> </a> 
   <a href="https://www.tableau.com/" target="_blank"> <img src="https://raw.githubusercontent.com/eswarpoluri/eswarpoluri.github.io/main/icons/tableau-software.svg" alt="tableau" width="40" height="40"/> </a> 
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="powerbi" width="120" height="40"/> </a> 
+  <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://raw.githubusercontent.com/eswarpoluri/eswarpoluri.github.io/main/icons/powerbi_logo.png" alt="powerbi" width="60" height="40"/> </a> 
   <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1d/20200803065701%21PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/> </a> 
   <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual_studio" width="40" height="40"/> </a> 
