@@ -11,7 +11,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eswarpoluri" alt="eswarpoluri" /></a> </p>
 
-I'm a Systems Design Engineer. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Data Science projects.
+I'm a Systems Design Engineer and passionate learner who's always willing to learn & work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Data Science projects.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/eswarpoluri/eswarpoluri.github.io/master/gifs/coder.gif" />
 
